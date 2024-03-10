@@ -15,7 +15,7 @@ const Hero = () => {
                /></p>
             </div>
             <p className='text-xl mx-8 sm:text-xl md:text-2xl my-3 mt-4 font-bold text-[#6B7280]'>Monitor your data anlaytics to increase revenue for BTB, BTC & SASS platforms</p>
-            <button className='bg-[#00df9a] text-black font-bold rounded-full mt-5 w-52 py-3 mx-auto transition hover:-translate-1 hover:scale-110'>Get Started</button>
+            <button className='bg-[#00df9a] text-black font-bold rounded-full mt-5 w-52 py-4 mx-auto transition hover:-translate-1 hover:scale-110'>Get Started</button>
         </div>
     </div>
   )
